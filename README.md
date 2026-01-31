@@ -1,0 +1,2 @@
+# AUTOMATED-SOUND-AMPLIFIER
+Semester_02 project
